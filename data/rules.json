@@ -1,0 +1,21 @@
+{
+  "title": "Channel Rules",
+  "subtitle": "Follow these guidelines to maximize your trading success",
+  "rules": [
+    {
+      "title": "Risk Management",
+      "description": "Never invest more than 2% of your capital in a single trade. Always use stop-loss.",
+      "icon": "shield"
+    },
+    {
+      "title": "Entry/Exit Discipline",
+      "description": "Enter and exit trades exactly at the given levels. Don't chase trades after signals.",
+      "icon": "plus"
+    },
+    {
+      "title": "Record Keeping",
+      "description": "Maintain a trading journal with all entries, exits, and reasons for trades.",
+      "icon": "edit"
+    }
+  ]
+} 
