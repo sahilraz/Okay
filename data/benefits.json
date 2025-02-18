@@ -1,0 +1,21 @@
+{
+  "title": "Member Benefits",
+  "subtitle": "Exclusive advantages for our premium members",
+  "benefits": [
+    {
+      "title": "Precise Signals",
+      "description": "Get accurate color predictions with exact entry and exit points.",
+      "icon": "signal"
+    },
+    {
+      "title": "Premium Support",
+      "description": "24/7 access to expert support and trading guidance.",
+      "icon": "support"
+    },
+    {
+      "title": "Community Access",
+      "description": "Join our exclusive community of successful traders.",
+      "icon": "community"
+    }
+  ]
+} 
