@@ -1,0 +1,20 @@
+{
+  "title": "Prediction Sessions",
+  "sessions": [
+    {
+      "title": "Morning Session",
+      "time": "9:30 AM - 11:30 AM",
+      "description": "Perfect for day traders looking to start their day with profitable trades."
+    },
+    {
+      "title": "Afternoon Session",
+      "time": "2:00 PM - 4:00 PM",
+      "description": "Mid-day opportunities for consistent profits."
+    },
+    {
+      "title": "Evening Session",
+      "time": "7:00 PM - 9:00 PM",
+      "description": "Evening trades for additional profit opportunities."
+    }
+  ]
+} 
